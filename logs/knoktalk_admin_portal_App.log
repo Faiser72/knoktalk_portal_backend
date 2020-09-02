@@ -1,0 +1,9 @@
+03-09-2020 00:17:54.492 [http-nio-8080-exec-3] INFO  c.v.k.j.controller.JwtRequestFilter.doFilterInternal - JWT Token will be generated
+03-09-2020 00:17:54.657 [http-nio-8080-exec-3] INFO  c.v.k.j.c.JwtAuthenticationController.createAuthenticationToken - JWT Token generated successfully.
+03-09-2020 00:17:54.658 [http-nio-8080-exec-3] INFO  c.v.k.j.c.JwtAuthenticationController.createAuthenticationToken - admin@knoktalk.com Logged successfully.
+03-09-2020 00:17:54.786 [http-nio-8080-exec-5] INFO  c.v.k.controller.home.HomeController.home - Hi, admin@knoktalk.com! Welcome, to CMS Home Controller..
+03-09-2020 00:20:04.769 [RMI TCP Connection(137)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested.
+03-09-2020 00:20:04.969 [RMI TCP Connection(137)-127.0.0.1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean.destroy - Closing JPA EntityManagerFactory for persistence unit 'default'
+03-09-2020 00:20:04.970 [RMI TCP Connection(137)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
+03-09-2020 00:20:04.970 [RMI TCP Connection(137)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-2 - Shutdown initiated...
+03-09-2020 00:20:04.975 [RMI TCP Connection(137)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-2 - Shutdown completed.
